@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Corne2Plum3 🐺
 
-<!--
-**Corne2Plum3/Corne2Plum3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I do things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- **Languages:** C, CSS, HTML, Javascript, Python, SQL
+- **Languages I know a little:** Bash, Haskell, PHP
+- **Tools:** Git, Linux over other OS whenever possible
+
+## Projects
+
+See my pinned projects.
+
+## GitHub Stats
+
+![Corne2Plum3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Corne2Plum3&show_icons=true&theme=github_dark) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Corne2Plum3&layout=compact&theme=github_dark)
+
+## Contact Me
+
+- **Discord:** corne2plum3
+- **Email:** [corne2plum3@gmail.com](mailto:corne2plum3@gmail.com) *(for serious stuff only)*
+- **Reddit:** [u/Corne2Plum3](https://www.reddit.com/user/Corne2Plum3/)
+
+*Please just avoid sending me 'Hi!' or something, and tell me directly what you want.*
+
+List of my profiles on the Internet: https://linktr.ee/corne2plum3
