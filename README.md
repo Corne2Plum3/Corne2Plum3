@@ -19,7 +19,7 @@ I do things.
 
 List of my profiles on the Internet: https://linktr.ee/corne2plum3
 
-- **Discord:** corne2plum3
+- **Discord:** `corne2plum3`
 - **Email:** [corne2plum3@mailo.com](mailto:corne2plum3@mailo.com) *(for serious stuff only)*
 - **Reddit:** [u/Corne2Plum3](https://www.reddit.com/user/Corne2Plum3/)
 
